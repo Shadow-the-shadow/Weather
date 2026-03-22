@@ -4,7 +4,7 @@ A responsive web application designed to provide real-time weather analytics and
 
 ## Live Deployment
 The application is hosted via GitHub Pages and can be accessed at: 
-[https://shadow-the-shadow.github.io/Weather/](https://shadow-the-shadow.github.io/Weather/)
+[https://shadow-the-shadow.github.io/Weather-Buddy/](https://shadow-the-shadow.github.io/Weather-Buddy/)
 
 ## Technical Features
 * **Real-Time Data Integration:** Utilizes the OpenWeatherMap API to fetch live atmospheric data across global coordinates.
