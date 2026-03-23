@@ -1,4 +1,4 @@
-const apiKey = CONFIG.WEATHER_API_KEY; 
+const apiKey = '61c6dea472b0aba30eba85cab9a96b02'; 
 const searchBtn = document.getElementById('searchBtn');
 
 window.onload = () => {
